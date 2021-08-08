@@ -68,7 +68,7 @@ Basic starting point:
    get additions / deletions & commit counts for that stargazer
 5. Run analyses on stargazer data
 `,
-	Example: `  stargazers cockroachdb/cockroach --token=f87456b1112dadb2d831a5792bf2ca9a6afca7bc`,
+	Example: `stargazers devtron-labs/devtron --token=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`,
 	RunE:    runStargazers,
 }
 
