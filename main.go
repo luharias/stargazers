@@ -13,7 +13,7 @@
 // permissions and limitations under the License.
 //
 // Author: Spencer Kimball (spencer.kimball@gmail.com)
-
+// --repo=devtron-labs/devtron --token=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
 package main
 
 import (
@@ -23,7 +23,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/spencerkimball/stargazers/cmd"
+	"github/spencerkimball/stargazers/cmd"
 	"github.com/spf13/cobra"
 	"github.com/spf13/cobra/doc"
 )
